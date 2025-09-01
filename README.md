@@ -29,7 +29,3 @@ I love crafting seamless front-end experiences and robust back-end solutions, wh
 ## 📫 How to reach me
 - [Email](uwinezarosine16@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/rosine-uwineza-b22272360/)  
-
-## ⚡ Fun fact
-- Coffee fuels my coding ☕  
-- I love experimenting with new technologies 🚀
